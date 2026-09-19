@@ -28,8 +28,6 @@ proknowc-automation/
     └── config.toml      # tema visual do app
 ```
 
-`normalize.py` e `filters.py` não sabem nada sobre interface — tanto `app.py` quanto `proknowc.py` os usam. Se precisar mudar a regra de negócio (ex.: outro critério de corte), é só mexer ali; a interface não muda.
-
 ## Como rodar
 
 ### Pré-requisitos
